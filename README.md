@@ -1,6 +1,4 @@
 LinkedIn:
-https://www.linkedin.com/jobs/#share-modal
-
 https://www.linkedin.com/posts/taqi-abbas-783844347_technical-skills-learning-experiences-activity-7286419059112321024-r8Vd
 
 
